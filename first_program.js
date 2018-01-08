@@ -1,10 +1,18 @@
 //This is a doc from sitepoint JS beginners course, code is written newest to oldest
 
-//L2 S4 Statments
+//S3 L13 Number types
+// console.log(2+2);
+// console.log(2+2.7);
+// console.log(2.76*7.65);
+// console.log(15/7);
+// console.log(14%4); // remainder
+// console.log(1+2*3); // * and / and % have presidence of + and - | so this equals 7 not 9
+// console.log((1+2)*3); //use () to make it nine
+// console.log(((1+2)*(3+4)/7));
 
+//S2 L4 Statments
 
-
-//L2 S3 variables
+//S2 L3 variables
 
 // console.log(2+2);
 //
