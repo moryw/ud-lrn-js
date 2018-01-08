@@ -1,5 +1,13 @@
 //This is a doc from sitepoint JS beginners course, code is written newest to oldest
 
+//S3 L14 Strings
+
+// console.log("Hello");
+// console.log('JavaScript says "Hello".'); //if you need to use quotes inside of quotes use single and then double
+// console.log("JavaScript's saying \"Hello\""); // better is to use the back slash to tell js that it is seperate
+// console.log("one\ntwo"); // \n is the new line
+// console.log("I'm " + "three " + "strings."); // add strings together with the  + sign
+
 //S3 L13 Number types
 // console.log(2+2);
 // console.log(2+2.7);
