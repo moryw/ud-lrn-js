@@ -1,5 +1,29 @@
 //This is a doc from sitepoint JS beginners course, code is written newest to oldest
 
+//Sp L2 S5 Strings
+
+// var sentence = "a sentence is a string.";
+// var sentence2 = sentence;
+//
+// console.log(sentence);
+// console.log(sentence2);
+//
+// sentence2 = "this is a different sentence."
+//
+// console.log(sentence);
+// console.log(sentence2);
+
+//methods
+
+// var sentence = "A sentence is a string.";
+//
+// console.log(sentence.length); //23 - includes spaces
+//
+// console.log(sentence.toUpperCase); //error - need () at the end of some methods
+// console.log(sentence.toUpperCase());
+// console.log(sentence.toLowerCase());
+// console.log(sentence.charAt(0));
+
 //S3 L16 Type Juggling
 
 // console.log(Number("99")); //99 - convert string to number to be usable by math methods
