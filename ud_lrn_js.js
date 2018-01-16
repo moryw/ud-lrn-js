@@ -1,5 +1,18 @@
 //This is a doc from sitepoint JS beginners course, code is written newest to oldest
 
+//S3 L16 Type Juggling
+
+// console.log(Number("99")); //99 - convert string to number to be usable by math methods
+// console.log("99"-0); //99 - when it see the '-' sign it knows it need to be a number
+// console.log("99"*1); //99 - same
+// console.log("99"/1); //99 - same
+// console.log("99"+0); //990 - '+' just adds to the existing string
+
+// console.log(String(99)); //"99"
+// console.log(99 + ""); //"99" JS knows that adding an empty string means converting to a string
+
+// console.log(Boolean(99)); //true
+
 //S3 L15 Boolean
 
 // console.log(true);
@@ -21,7 +34,7 @@
 // console.log(true && false); //false
 // console.log(true || false); //true - if either is tru return true
 // console.log(false || false); //false - if both are false return false
-console.log(((2 > 1) || ('a' > 'z')) && (3 > 2)); //true 
+// console.log(((2 > 1) || ('a' > 'z')) && (3 > 2)); //true
 
 //S3 L14 Strings
 
