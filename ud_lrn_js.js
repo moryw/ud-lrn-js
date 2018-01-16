@@ -1,5 +1,28 @@
 //This is a doc from sitepoint JS beginners course, code is written newest to oldest
 
+//S3 L15 Boolean
+
+// console.log(true);
+// console.log(2>1);
+// console.log(2<1);
+// console.log("abc" < "xyz");
+// console.log("abc" > "xyz");
+
+// console.log(2 === 2);
+// console.log(2 == 2);
+// console.log(2 === "2"); // false because three === is more strict so it compares value and string type
+// console.log(2 == "2"); // true because two == is less strict so it just compares value
+// console.log(2 != 2);
+// console.log(2 !== 2);
+// console.log(2 != "2"); //false
+// console.log(2 !== "2"); //true because it is more strict and compares both value and sting type
+
+// console.log(true && true); //true
+// console.log(true && false); //false
+// console.log(true || false); //true - if either is tru return true
+// console.log(false || false); //false - if both are false return false
+console.log(((2 > 1) || ('a' > 'z')) && (3 > 2)); //true 
+
 //S3 L14 Strings
 
 // console.log("Hello");
