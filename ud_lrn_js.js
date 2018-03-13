@@ -1,5 +1,7 @@
 //This is a doc from sitepoint JS beginners course, code is written newest to oldest
 
+
+// 
 //Sp L2 S5 Strings
 
 // var sentence = "a sentence is a string.";
